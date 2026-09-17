@@ -6,7 +6,7 @@ class P19_Positivity
     {
         // Write your code here
         // Prompt the user for input
-        echo "Give a number:";
+        echo "Give a number:\n";
        
         // Get input from the user
         $num = (float) trim(fgets(STDIN));
