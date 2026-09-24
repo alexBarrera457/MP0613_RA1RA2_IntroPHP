@@ -18,7 +18,7 @@ class P21_LargerThanOrEqualTo
             echo "Greater number is: $num2\n";
         } else{
             echo "The numbers are equal!\n";
-        }
+        } 
 
         // Get input from the user
         
