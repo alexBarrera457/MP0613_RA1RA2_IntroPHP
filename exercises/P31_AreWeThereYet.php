@@ -4,7 +4,7 @@ class P31_AreWeThereYet
 {
     public function main(): void
     {
-        // Write your code here
+        // Write your code here 
         $number = null;
 
         while($number != 4){
