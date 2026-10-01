@@ -8,7 +8,7 @@ class P39_Counting
         $number = (int) trim(fgets($GLOBALS['STDIN'] ?? STDIN));
 
         for($i = 0; $i <= $number; $i++){
-            echo $i . "\n";
+            echo "$i\n";
         }
     }
 }

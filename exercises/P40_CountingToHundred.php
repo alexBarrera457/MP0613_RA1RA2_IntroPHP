@@ -8,7 +8,7 @@ class P40_CountingToHundred
         $number = (int) trim(fgets($GLOBALS['STDIN'] ?? STDIN));
 
         while($number <= 100){
-            echo $number . "\n";
+            echo "$number\n";
             $number++;
         }
     }
